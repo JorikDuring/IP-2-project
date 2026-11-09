@@ -9,7 +9,7 @@ project:
     - name: Freek Pols
     - name: Roel Smit
 
-  github: https://github.com/Contemporary-Physicslab/thermolab
+  github: https://github.com/JorikDuring/IP-2-project/tree/4d11f3549f7ae85d19d49d6de7458732e3526077
   plugins:
     - https://github.com/jupyter-book/myst-plugins/releases/download/page-last-updatedv1.1/page-last-updated.mjs
   toc:
